@@ -1,0 +1,7 @@
+Moscow 1 Boeing747
+Rome 2 Boeing737
+London 3 Boeing747
+Paris 4 Boeing737
+Barcelona 5 Boeing747
+Yerevan 6 Boeing737
+Tokyo 7 Boeing747
